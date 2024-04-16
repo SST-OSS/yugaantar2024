@@ -1,0 +1,3 @@
+[submodule "yugaantarFrontend/static/festfrontend"]
+	path = yugaantarFrontend/static/festfrontend
+	url = https://github.com/SST-OSS/festfrontend
